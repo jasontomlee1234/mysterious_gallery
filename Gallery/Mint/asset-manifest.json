@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.dedeb1da.chunk.css",
+    "main.js": "./static/js/main.fd73723a.chunk.js",
+    "main.js.map": "./static/js/main.fd73723a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.753b3ee9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.753b3ee9.js.map",
+    "static/js/2.a2865d6c.chunk.js": "./static/js/2.a2865d6c.chunk.js",
+    "static/js/2.a2865d6c.chunk.js.map": "./static/js/2.a2865d6c.chunk.js.map",
+    "static/js/3.9b893aba.chunk.js": "./static/js/3.9b893aba.chunk.js",
+    "static/js/3.9b893aba.chunk.js.map": "./static/js/3.9b893aba.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.dedeb1da.chunk.css.map": "./static/css/main.dedeb1da.chunk.css.map",
+    "static/js/2.a2865d6c.chunk.js.LICENSE.txt": "./static/js/2.a2865d6c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Codystar-Regular.070f6213.ttf",
+    "static/media/DIMOND16.d8583ade.jpg": "./static/media/DIMOND16.d8583ade.jpg",
+    "static/media/DIMOND19.1befbee9.jpg": "./static/media/DIMOND19.1befbee9.jpg",
+    "static/media/DIMOND3.f6bf6f61.jpg": "./static/media/DIMOND3.f6bf6f61.jpg",
+    "static/media/DIMOND5.33f9b0ff.jpg": "./static/media/DIMOND5.33f9b0ff.jpg",
+    "static/media/DIMOND6.7eb66824.jpg": "./static/media/DIMOND6.7eb66824.jpg",
+    "static/media/DIMOND9.cf54f3c1.jpg": "./static/media/DIMOND9.cf54f3c1.jpg",
+    "static/media/DIMONDS.b98018db.jpg": "./static/media/DIMONDS.b98018db.jpg",
+    "static/media/ETHRock.a79e27af.png": "./static/media/ETHRock.a79e27af.png",
+    "static/media/fantomRock.c2e08ed8.png": "./static/media/fantomRock.c2e08ed8.png",
+    "static/media/logo.74cf69ac.png": "./static/media/logo.74cf69ac.png",
+    "static/media/neon-footer.26bf6601.png": "./static/media/neon-footer.26bf6601.png",
+    "static/media/shiba.9f333288.png": "./static/media/shiba.9f333288.png",
+    "static/media/spirit.7156b68e.jpg": "./static/media/spirit.7156b68e.jpg",
+    "static/media/spooky.140adcce.jpg": "./static/media/spooky.140adcce.jpg",
+    "static/media/supernova.25fe21ce.jpg": "./static/media/supernova.25fe21ce.jpg",
+    "static/media/trade.1d41e6c2.png": "./static/media/trade.1d41e6c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753b3ee9.js",
+    "static/js/2.a2865d6c.chunk.js",
+    "static/css/main.dedeb1da.chunk.css",
+    "static/js/main.fd73723a.chunk.js"
+  ]
+}
